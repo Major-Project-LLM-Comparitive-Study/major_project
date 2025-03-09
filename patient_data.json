@@ -1,0 +1,24 @@
+[
+    {
+      "ID": "PT-2025-1043",
+      "PatientSummary": "67-year-old male presents with progressive shortness of breath over 3 months, now occurring with minimal exertion. Reports ankle swelling, particularly in evenings. Has 40-pack-year smoking history. Physical exam reveals bilateral crackles in lung bases, jugular venous distention, and 2+ pitting edema in lower extremities. Cardiac exam shows displaced point of maximal impulse and S3 gallop. Echocardiogram indicates reduced ejection fraction of 28%. Patient recently experienced two episodes of nocturnal dyspnea that resolved by sitting upright.",
+      "Diagnosis": "Congestive Heart Failure (Systolic)",
+      "CategoryOfDisease": "Cardiovascular",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 67,
+        "Location": "Boston, MA"
+      }
+    },
+    {
+      "ID": "PT-2025-2187",
+      "PatientSummary": "34-year-old female presents with severe abdominal pain that began suddenly 6 hours ago in periumbilical region and migrated to right lower quadrant. Reports nausea, vomited twice, and low-grade fever (100.2°F). Physical exam reveals rebound tenderness and guarding at McBurney's point with positive Rovsing's sign. WBC count elevated at 14,500 with left shift. Patient reports loss of appetite since pain onset and denies urinary symptoms or recent menstrual irregularities. CT scan shows inflamed appendix with periappendiceal fat stranding.",
+      "Diagnosis": "Acute Appendicitis",
+      "CategoryOfDisease": "Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 34,
+        "Location": "Portland, OR"
+      }
+    }
+]

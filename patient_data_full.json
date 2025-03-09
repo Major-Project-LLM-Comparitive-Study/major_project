@@ -1,0 +1,651 @@
+[
+    {
+      "ID": "PT-2025-1043",
+      "PatientSummary": "67-year-old male presents with progressive shortness of breath over 3 months, now occurring with minimal exertion. Reports ankle swelling, particularly in evenings. Has 40-pack-year smoking history. Physical exam reveals bilateral crackles in lung bases, jugular venous distention, and 2+ pitting edema in lower extremities. Cardiac exam shows displaced point of maximal impulse and S3 gallop. Echocardiogram indicates reduced ejection fraction of 28%. Patient recently experienced two episodes of nocturnal dyspnea that resolved by sitting upright.",
+      "Diagnosis": "Congestive Heart Failure (Systolic)",
+      "CategoryOfDisease": "Cardiovascular",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 67,
+        "Location": "Boston, MA"
+      }
+    },
+    {
+      "ID": "PT-2025-2187",
+      "PatientSummary": "34-year-old female presents with severe abdominal pain that began suddenly 6 hours ago in periumbilical region and migrated to right lower quadrant. Reports nausea, vomited twice, and low-grade fever (100.2°F). Physical exam reveals rebound tenderness and guarding at McBurney's point with positive Rovsing's sign. WBC count elevated at 14,500 with left shift. Patient reports loss of appetite since pain onset and denies urinary symptoms or recent menstrual irregularities. CT scan shows inflamed appendix with periappendiceal fat stranding.",
+      "Diagnosis": "Acute Appendicitis",
+      "CategoryOfDisease": "Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 34,
+        "Location": "Portland, OR"
+      }
+    },
+    {
+      "ID": "PT-2025-3256",
+      "PatientSummary": "8-year-old male brought by parents with 3-day history of persistent fever (102-104°F), severe sore throat, and difficulty swallowing. Child refuses to eat solid foods and has decreased fluid intake. Physical exam shows erythematous pharynx with tonsillar exudate, palatal petechiae, and tender anterior cervical lymphadenopathy. Rapid strep test positive. Patient has no known allergies and no prior history of strep infections. Parents report several classmates recently diagnosed with similar symptoms.",
+      "Diagnosis": "Group A Streptococcal Pharyngitis (Strep Throat)",
+      "CategoryOfDisease": "Infectious Disease",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 8,
+        "Location": "Charlotte, NC"
+      }
+    },
+    {
+      "ID": "PT-2025-4729",
+      "PatientSummary": "42-year-old female presents with 4-month history of persistent fatigue, unexplained weight loss (15 pounds), night sweats, and intermittent low-grade fever. Recently noticed painless swelling in neck and axillary regions. Physical exam reveals multiple enlarged, rubbery lymph nodes in cervical, supraclavicular, and axillary regions. CT scan shows additional mediastinal and retroperitoneal lymphadenopathy with splenomegaly. Excisional lymph node biopsy reveals Reed-Sternberg cells. No significant past medical history or family history of malignancy.",
+      "Diagnosis": "Hodgkin's Lymphoma (Stage IIB)",
+      "CategoryOfDisease": "Oncologic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 42,
+        "Location": "Chicago, IL"
+      }
+    },
+    {
+      "ID": "PT-2025-5891",
+      "PatientSummary": "29-year-old male presents with sudden onset of severe, crushing chest pain radiating to left arm and jaw during workout at gym. Pain persisted for 30 minutes, associated with diaphoresis, nausea, and shortness of breath. ECG shows ST-segment elevation in anterior leads. Troponin I significantly elevated. No prior cardiac history but reports family history of premature CAD (father had MI at 45). Patient has BMI of 24, denies smoking, uses pre-workout supplements daily, and admits to occasional cocaine use on weekends, last use 2 days prior.",
+      "Diagnosis": "Acute Myocardial Infarction (STEMI) - Cocaine-induced",
+      "CategoryOfDisease": "Cardiovascular/Toxicologic",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 29,
+        "Location": "Miami, FL"
+      }
+    },
+    {
+      "ID": "PT-2025-6412",
+      "PatientSummary": "72-year-old female presents with progressive confusion, disorientation, and memory difficulties over past 6 months. Family reports patient frequently misplaces items, repeats questions, and has difficulty with daily tasks such as cooking and managing finances. Recently got lost driving to grocery store she's visited for 15 years. MMSE score of 19/30 with deficits in orientation, recall, and visuospatial function. Brain MRI shows diffuse cortical atrophy with hippocampal volume loss. Patient maintains social graces and insight into condition is limited. Has controlled hypertension and hypothyroidism.",
+      "Diagnosis": "Alzheimer's Disease (Early Stage)",
+      "CategoryOfDisease": "Neurological/Degenerative",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 72,
+        "Location": "Seattle, WA"
+      }
+    },
+    {
+      "ID": "PT-2025-7053",
+      "PatientSummary": "55-year-old male with 20-year history of type 2 diabetes presents with progressive numbness and tingling in both feet, ascending to mid-calf over past 2 years. Reports burning sensation at night and unstable gait. Physical exam reveals decreased sensation to light touch, pinprick, and vibration in stocking distribution. Absent ankle reflexes bilaterally. Recent HbA1c was 9.8%. Patient admits to poor medication compliance and infrequent glucose monitoring. Fundoscopic exam shows moderate nonproliferative diabetic retinopathy. Also reports ED and episodes of orthostatic dizziness.",
+      "Diagnosis": "Diabetic Polyneuropathy with Autonomic Neuropathy",
+      "CategoryOfDisease": "Endocrine/Metabolic",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 55,
+        "Location": "Dallas, TX"
+      }
+    },
+    {
+      "ID": "PT-2025-8714",
+      "PatientSummary": "19-year-old female college student presents with extreme fatigue, joint pain, and distinctive butterfly-shaped facial rash across cheeks and bridge of nose that worsens with sun exposure. Reports two episodes of unexplained fever in past month, recent hair loss, and painful joints in hands and wrists. Lab studies show positive ANA (1:640), positive anti-dsDNA, low C3 and C4 complement levels, mild anemia, and proteinuria on urinalysis. Patient reports family history of rheumatoid arthritis in mother and maternal aunt. Recently started oral contraceptives 3 months ago.",
+      "Diagnosis": "Systemic Lupus Erythematosus (SLE)",
+      "CategoryOfDisease": "Autoimmune/Rheumatologic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 19,
+        "Location": "Atlanta, GA"
+      }
+    },
+    {
+      "ID": "PT-2025-9325",
+      "PatientSummary": "61-year-old male presents with progressive difficulty breathing over 6 months, now with exertional dyspnea when climbing one flight of stairs. Reports dry, non-productive cough and occasional chest tightness. Occupational history reveals 25 years working in asbestos removal. Physical exam shows bilateral fine inspiratory crackles at lung bases and clubbing of fingers. Pulmonary function tests reveal restrictive pattern with decreased DLCO. High-resolution CT shows bilateral reticular opacities predominantly in lower lobes with honeycombing and traction bronchiectasis. Oxygen saturation drops from 94% at rest to 87% with 6-minute walk test.",
+      "Diagnosis": "Idiopathic Pulmonary Fibrosis with Occupational Contribution (Asbestosis)",
+      "CategoryOfDisease": "Respiratory/Occupational",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 61,
+        "Location": "Baltimore, MD"
+      }
+    },
+    {
+      "ID": "PT-2025-1087",
+      "PatientSummary": "45-year-old female presents with 2-week history of increasingly severe headaches, described as \"worst headache of my life.\" Reports nausea, sensitivity to light, and neck stiffness. Symptoms began after starting new antidepressant. Physical exam reveals temperature 101.3°F, nuchal rigidity, and positive Kernig and Brudzinski signs. CSF analysis shows elevated WBC count (predominantly lymphocytes), elevated protein, and normal glucose. Patient recently returned from hiking trip in Connecticut where she recalls tick bite but no rash. MRI shows leptomeningeal enhancement consistent with meningitis.",
+      "Diagnosis": "Aseptic Meningitis (Likely Viral) with Differential including Tick-borne Disease",
+      "CategoryOfDisease": "Infectious Disease/Neurological",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 45,
+        "Location": "Burlington, VT"
+      }
+    },
+    {
+      "ID": "PT-2025-1126",
+      "PatientSummary": "52-year-old female presents with 4-day history of severe right-sided facial pain described as sharp, electric-like jolts triggered by light touch, eating, and brushing teeth. Pain radiates from right corner of mouth to right eye and ear. No associated numbness or weakness. Physical exam normal except for triggering of pain when touching right side of face. MRI brain without contrast normal. Patient has history of hypertension well-controlled on lisinopril and previously experienced similar but milder episode 3 years ago that resolved spontaneously after 2 weeks.",
+      "Diagnosis": "Trigeminal Neuralgia",
+      "CategoryOfDisease": "Neurological",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 52,
+        "Location": "Denver, CO"
+      }
+    },
+    {
+      "ID": "PT-2025-1232",
+      "PatientSummary": "4-year-old female brought by parents with 1-day history of right ear pain, crying, and pulling at ear. Developed fever up to 102.5°F overnight. Child attended daycare until yesterday. Previously healthy with up-to-date vaccinations. Physical exam reveals erythematous, bulging right tympanic membrane with decreased mobility on pneumatic otoscopy. Left ear normal. Child irritable during exam but consolable. No conjunctivitis, rhinorrhea minimal. Had single episode of vomiting this morning.",
+      "Diagnosis": "Acute Otitis Media (Right Ear)",
+      "CategoryOfDisease": "ENT/Infectious Disease",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 4,
+        "Location": "Minneapolis, MN"
+      }
+    },
+    {
+      "ID": "PT-2025-1347",
+      "PatientSummary": "38-year-old female presents with 6-month history of progressive fatigue, muscle weakness, and 12-pound weight gain despite no change in diet or activity. Reports feeling cold constantly, dry skin, constipation, and menorrhagia. Physical exam reveals delayed relaxation phase of deep tendon reflexes, bradycardia (HR 52), and non-pitting edema of face and extremities. Labs show elevated TSH (15.2 mIU/L), low free T4 (0.6 ng/dL), and positive anti-thyroid peroxidase antibodies. Family history significant for autoimmune disorders, including rheumatoid arthritis in mother and celiac disease in sister.",
+      "Diagnosis": "Hashimoto's Thyroiditis with Hypothyroidism",
+      "CategoryOfDisease": "Endocrine/Autoimmune",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 38,
+        "Location": "Philadelphia, PA"
+      }
+    },
+    {
+      "ID": "PT-2025-1459",
+      "PatientSummary": "76-year-old male presents with sudden onset of severe left flank pain radiating to groin, associated with nausea, vomiting, and gross hematuria. Pain described as colicky and rated 9/10. Patient restless and unable to find comfortable position. History of two previous similar episodes in past 5 years. Physical exam reveals left costovertebral angle tenderness. Urinalysis shows hematuria, no evidence of infection. Non-contrast CT abdomen/pelvis reveals 7mm obstructing calculus at left ureterovesicular junction with moderate hydronephrosis. Patient has hypertension and BPH, taking amlodipine and tamsulosin.",
+      "Diagnosis": "Urolithiasis (Left Ureteral Calculus) with Obstructive Uropathy",
+      "CategoryOfDisease": "Urological",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 76,
+        "Location": "Phoenix, AZ"
+      }
+    },
+    {
+      "ID": "PT-2025-1568",
+      "PatientSummary": "31-year-old female presents with sudden onset of palpitations, tremors, and anxiety lasting 45 minutes. Reports feeling warm, sweaty, and short of breath. States she felt like her heart was \"racing and skipping beats.\" ECG during episode showed supraventricular tachycardia with heart rate of 180 bpm that converted to normal sinus rhythm after vagal maneuvers. Patient has history of similar episodes approximately once monthly for past year, usually triggered by stress or caffeine consumption. No structural heart disease on previous echocardiogram. Recently increased coffee intake due to work deadlines.",
+      "Diagnosis": "Paroxysmal Supraventricular Tachycardia (PSVT)",
+      "CategoryOfDisease": "Cardiovascular/Arrhythmia",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 31,
+        "Location": "Los Angeles, CA"
+      }
+    },
+    {
+      "ID": "PT-2025-1672",
+      "PatientSummary": "23-year-old male presents with persistent cough for 3 weeks, night sweats, fatigue, and unintentional weight loss of 10 pounds. Patient immigrated from Somalia 6 months ago. Reports occasional hemoptysis for past week. Chest X-ray shows right upper lobe infiltrate with cavitation. PPD skin test strongly positive (18mm induration). HIV test negative. Sputum AFB stain positive. Patient denies known TB contacts but reports uncle died of similar symptoms in home country 2 years ago. No other medical history.",
+      "Diagnosis": "Pulmonary Tuberculosis",
+      "CategoryOfDisease": "Infectious Disease/Respiratory",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 23,
+        "Location": "Columbus, OH"
+      }
+    },
+    {
+      "ID": "PT-2025-1789",
+      "PatientSummary": "58-year-old female presents with gradually worsening epigastric pain for 2 months, described as gnawing and burning, worse before meals and at night. Reports early satiety and 15-pound unintentional weight loss. Pain temporarily improves with over-the-counter antacids. Denies vomiting or melena but has noticed darkening of stool over past week. Has been taking ibuprofen 800mg three times daily for knee osteoarthritis for past year. Upper endoscopy reveals 2cm ulcer on lesser curvature of stomach with visible vessel. CLO test positive for H. pylori. Hemoglobin 9.8 g/dL, decreased from baseline of 13.5 three months ago.",
+      "Diagnosis": "Gastric Ulcer with Slow Bleeding Secondary to NSAID Use and H. pylori Infection",
+      "CategoryOfDisease": "Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 58,
+        "Location": "Nashville, TN"
+      }
+    },
+    {
+      "ID": "PT-2025-1899",
+      "PatientSummary": "43-year-old male presents with gradually worsening right knee pain and swelling over 3 days. No history of trauma. Reports fever, chills, and inability to bear weight on affected limb. Physical exam reveals warm, erythematous, swollen right knee with severe pain on passive motion. Temperature 101.8°F. Arthrocentesis yields 45cc of cloudy fluid with 75,000 WBC/μL (92% neutrophils), elevated protein, and low glucose. Gram stain shows gram-positive cocci in clusters. Patient has history of type 1 diabetes with recent diabetic foot ulcer that healed 2 weeks ago.",
+      "Diagnosis": "Septic Arthritis (Right Knee) - Staphylococcus aureus",
+      "CategoryOfDisease": "Infectious Disease/Orthopedic",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 43,
+        "Location": "Kansas City, MO"
+      }
+    },
+    {
+      "ID": "PT-2025-2011",
+      "PatientSummary": "62-year-old female presents with 3-month history of progressive hand stiffness and pain, particularly in the morning lasting over 1 hour. Reports bilateral symmetric swelling of MCP and PIP joints with warmth. Also notes similar symptoms in feet. Has difficulty with fine motor tasks like buttoning shirts and opening jars. Physical exam reveals boggy synovitis of multiple MCPs and PIPs bilaterally with ulnar deviation. Labs show RF positive at 120 IU/mL, anti-CCP antibodies >250 U/mL, elevated ESR (45 mm/hr) and CRP (3.2 mg/dL). X-rays show early erosive changes at MCP joints bilaterally.",
+      "Diagnosis": "Rheumatoid Arthritis",
+      "CategoryOfDisease": "Autoimmune/Rheumatologic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 62,
+        "Location": "Pittsburgh, PA"
+      }
+    },
+    {
+      "ID": "PT-2025-2124",
+      "PatientSummary": "17-year-old male presents with 2-day history of testicular pain and swelling on left side. Reports sudden onset after basketball practice, with pain radiating to lower abdomen. Denies fever, dysuria, or urethral discharge. Physical exam reveals tender, swollen left testicle elevated in scrotal sac with absent cremasteric reflex. Color Doppler ultrasound shows absent blood flow to left testicle. Patient initially delayed seeking care due to embarrassment. No history of trauma, sexual activity, or previous similar episodes.",
+      "Diagnosis": "Testicular Torsion",
+      "CategoryOfDisease": "Urological/Surgical Emergency",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 17,
+        "Location": "Detroit, MI"
+      }
+    },
+    {
+      "ID": "PT-2025-2236",
+      "PatientSummary": "74-year-old female brought to ED after family found her confused and disoriented. Patient unable to recognize daughter or recall recent events. Reports severe headache and neck pain. No history of trauma. Physical exam reveals temperature 103.2°F, nuchal rigidity, and altered mental status with GCS of 13. CT head negative for acute intracranial pathology. CSF analysis shows elevated opening pressure, cloudy appearance, 1,200 WBC/μL (85% neutrophils), elevated protein, low glucose, and gram-positive diplococci on gram stain. Patient has history of splenectomy following motor vehicle accident 20 years ago. Pneumococcal vaccination status unknown.",
+      "Diagnosis": "Bacterial Meningitis (Streptococcus pneumoniae)",
+      "CategoryOfDisease": "Infectious Disease/Neurological Emergency",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 74,
+        "Location": "San Antonio, TX"
+      }
+    },
+    {
+      "ID": "PT-2025-2348",
+      "PatientSummary": "51-year-old male presents with 2-day history of intense itching and painful blisters on torso in band-like distribution wrapping around right side from back to front at T7 dermatome level. Reports recent stress and lack of sleep due to job loss. Physical exam reveals erythematous vesicular eruption in unilateral dermatomal pattern with clear fluid-filled vesicles, some beginning to crust. Patient has history of chickenpox as child and received chemotherapy for non-Hodgkin lymphoma 3 years ago with complete remission.",
+      "Diagnosis": "Herpes Zoster (Shingles)",
+      "CategoryOfDisease": "Infectious Disease/Dermatological",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 51,
+        "Location": "Indianapolis, IN"
+      }
+    },
+    {
+      "ID": "PT-2025-2453",
+      "PatientSummary": "69-year-old male presents with 6-month history of difficulty initiating urination, weak stream, nocturia (4-5 times nightly), urinary frequency, and sensation of incomplete bladder emptying. Reports gradual worsening of symptoms. No hematuria or dysuria. Digital rectal exam reveals symmetrically enlarged, firm but not hard prostate without nodules. PSA 3.8 ng/mL (within age-adjusted normal range). Post-void residual volume 180 mL. International Prostate Symptom Score (IPSS) 21/35. Patient has well-controlled hypertension and hyperlipidemia.",
+      "Diagnosis": "Benign Prostatic Hyperplasia (BPH) with Bladder Outlet Obstruction",
+      "CategoryOfDisease": "Urological",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 69,
+        "Location": "Salt Lake City, UT"
+      }
+    },
+    {
+      "ID": "PT-2025-2567",
+      "PatientSummary": "27-year-old female presents with episodic dizziness, room-spinning sensation, tinnitus, and right-sided hearing loss lasting hours. Reports recurrent attacks over past 8 months, each lasting 2-6 hours and often preceded by feeling of fullness in right ear. During episodes experiences nausea and vomiting. Audiometry shows low-frequency sensorineural hearing loss in right ear. MRI brain with contrast normal. Reports significant work stress and migraine history. Symptoms significantly impacting quality of life and causing anxiety about future episodes.",
+      "Diagnosis": "Ménière's Disease",
+      "CategoryOfDisease": "ENT/Neurological",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 27,
+        "Location": "San Diego, CA"
+      }
+    },
+    {
+      "ID": "PT-2025-2675",
+      "PatientSummary": "64-year-old male presents with 3-week history of progressively worsening jaundice, dark urine, clay-colored stools, and pruritus. Reports unintentional 20-pound weight loss over 2 months and persistent dull pain in right upper quadrant radiating to back. Physical exam reveals icteric sclera, jaundiced skin, palpable non-tender gallbladder (Courvoisier's sign), and cachexia. Labs show total bilirubin 18.2 mg/dL, direct bilirubin 15.5 mg/dL, alkaline phosphatase 756 U/L, AST 85 U/L, ALT 92 U/L, and CA 19-9 >1000 U/mL. CT abdomen shows 3.8 cm mass in head of pancreas with biliary and pancreatic duct dilation. No evidence of metastatic disease.",
+      "Diagnosis": "Pancreatic Adenocarcinoma (Head of Pancreas)",
+      "CategoryOfDisease": "Oncologic/Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 64,
+        "Location": "New Orleans, LA"
+      }
+    },
+    {
+      "ID": "PT-2025-2789",
+      "PatientSummary": "36-year-old male presents with sudden onset of excruciating headache described as \"like being hit with a hammer,\" reaching maximum intensity within seconds. Reports neck stiffness, photophobia, and transient loss of consciousness at onset. Family called ambulance when found confused. GCS 14 on arrival with mild left-sided weakness. CT head shows subarachnoid blood in basal cisterns and left sylvian fissure. CT angiogram reveals 7mm anterior communicating artery aneurysm. Patient has history of poorly controlled hypertension and current smoker (1 pack/day for 18 years). Brother had similar event at age 42.",
+      "Diagnosis": "Subarachnoid Hemorrhage due to Ruptured Cerebral Aneurysm",
+      "CategoryOfDisease": "Neurological/Neurosurgical Emergency",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 36,
+        "Location": "Cleveland, OH"
+      }
+    },
+    {
+      "ID": "PT-2025-2896",
+      "PatientSummary": "59-year-old female presents with 4-month history of recurrent epistaxis, increasing fatigue, easy bruising, and petechiae on lower extremities. Recently noted enlarged cervical lymph nodes. Complete blood count shows WBC 112,000/μL with 85% lymphocytes, hemoglobin 8.7 g/dL, platelets 32,000/μL. Peripheral blood smear reveals numerous small mature-appearing lymphocytes. Flow cytometry positive for CD5, CD19, CD20, CD23, and dim surface IgM. Bone marrow biopsy shows >60% involvement by small B-cell lymphoid population. FISH analysis positive for deletion 13q14. Patient reports unintentional 10-pound weight loss and night sweats over past 2 months.",
+      "Diagnosis": "Chronic Lymphocytic Leukemia (Rai Stage III)",
+      "CategoryOfDisease": "Hematologic/Oncologic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 59,
+        "Location": "St. Louis, MO"
+      }
+    },
+    {
+      "ID": "PT-2025-3014",
+      "PatientSummary": "41-year-old female presents with recurrent episodes of severe, cramping abdominal pain, bloating, and alternating constipation and diarrhea for >2 years. Reports pain typically improves after bowel movement. Symptoms worsen during periods of stress. No alarm features such as weight loss, rectal bleeding, or nocturnal symptoms. Physical exam benign except for mild diffuse abdominal tenderness. Recent colonoscopy normal. Multiple food intolerances reported but food diary shows inconsistent patterns. Previously diagnosed with anxiety disorder. Symptoms significantly impacting work and social functioning.",
+      "Diagnosis": "Irritable Bowel Syndrome (Mixed Type)",
+      "CategoryOfDisease": "Gastrointestinal/Functional",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 41,
+        "Location": "Austin, TX"
+      }
+    },
+    {
+      "ID": "PT-2025-3125",
+      "PatientSummary": "7-year-old male brought by parents with 1-month history of increasing involuntary facial grimacing, eye blinking, shoulder shrugging, and throat clearing. Movements are sudden, repetitive, and worsen when anxious or tired. Parents report child has been trying to suppress movements at school resulting in outbursts when returning home. Teacher has noted declining academic performance and social withdrawal. Symptoms began shortly after streptococcal pharyngitis treated with amoxicillin. No family history of similar disorders. Normal neurological exam otherwise. Child reports being bullied at school due to symptoms.",
+      "Diagnosis": "Tourette Syndrome with Comorbid Adjustment Disorder",
+      "CategoryOfDisease": "Neurological/Psychiatric",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 7,
+        "Location": "Sacramento, CA"
+      }
+    },
+    {
+      "ID": "PT-2025-3239",
+      "PatientSummary": "68-year-old female presents with 6-week history of constant, dull lower back pain radiating to left hip and posterior thigh. Reports pain worse at night and when lying down, unrelieved by rest or NSAIDs. Denies trauma but notes 3-inch height loss over past decade. Physical exam reveals point tenderness over L3 vertebra and positive straight leg raise on left. X-ray shows compression fracture of L3 vertebra with >40% height loss. DEXA scan indicates T-score of -3.2 at lumbar spine. Patient has history of early menopause at age 42 and long-term corticosteroid use for rheumatoid arthritis. MRI shows no evidence of malignancy or cord compression.",
+      "Diagnosis": "Osteoporotic Vertebral Compression Fracture (L3) with Radiculopathy",
+      "CategoryOfDisease": "Orthopedic/Metabolic Bone Disease",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 68,
+        "Location": "Las Vegas, NV"
+      }
+    },
+    {
+      "ID": "PT-2025-3348",
+      "PatientSummary": "32-year-old female presents at 32 weeks gestation with severe headache, visual disturbances, right upper quadrant pain, and sudden onset of edema in face and extremities over past 48 hours. Reports significant weight gain of 5 pounds in past week. Blood pressure 168/112 mmHg on repeated measurements. Urinalysis shows 3+ protein. Labs reveal elevated liver enzymes (AST 92 U/L, ALT 88 U/L), platelets 95,000/μL, and uric acid 7.8 mg/dL. Fetal ultrasound shows appropriate growth for gestational age with normal amniotic fluid. Primigravida with previously uncomplicated pregnancy and normal BP readings at prior visits.",
+      "Diagnosis": "Preeclampsia with Severe Features",
+      "CategoryOfDisease": "Obstetric",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 32,
+        "Location": "Raleigh, NC"
+      }
+    },
+    {
+      "ID": "PT-2025-4872",
+      "PatientSummary": "58-year-old male with history of hypertension and smoking (30 pack-years) presents with crushing substernal chest pain radiating to left jaw and arm, onset while shoveling snow 2 hours ago. Pain rated 8/10, associated with diaphoresis, nausea, and shortness of breath. Patient took aspirin 325mg prior to arrival. Vitals: BP 156/94, HR 102, RR 22, O2 sat 95% on room air. ECG shows 3mm ST-segment elevation in leads V1-V4. Initial troponin I elevated at 2.8 ng/mL. Patient's father had MI at age 62.",
+      "Diagnosis": "ST-Elevation Myocardial Infarction (STEMI)",
+      "CategoryOfDisease": "Cardiovascular",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 58,
+        "Location": "Minneapolis, MN"
+      }
+    },
+    {
+      "ID": "PT-2025-1654",
+      "PatientSummary": "7-year-old male brought to ER by parents with sudden onset of severe right lower quadrant abdominal pain that began periumbilically 12 hours ago. Reports nausea with two episodes of vomiting and low-grade fever (100.4°F). Child refuses to walk due to pain that worsens with movement. On physical exam: rebound tenderness at McBurney's point, positive Rovsing's sign. Labs show WBC 15,000 cells/μL with neutrophilia. Ultrasound reveals enlarged, non-compressible appendix with wall thickening and surrounding fluid collection.",
+      "Diagnosis": "Acute Appendicitis",
+      "CategoryOfDisease": "Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 7,
+        "Location": "Portland, OR"
+      }
+    },
+    {
+      "ID": "PT-2025-9273",
+      "PatientSummary": "44-year-old female presents with 3-week history of progressively worsening fatigue, persistent dry cough, and night sweats. Reports unintentional weight loss of 18 pounds in past 2 months. No fever or hemoptysis. Patient has no significant past medical history but has recent history of international travel to Southeast Asia for 6 months. Physical exam reveals palpable left supraclavicular lymphadenopathy. Chest radiograph shows right upper lobe infiltrate with small cavitation. PPD skin test strongly positive with 22mm induration. Sputum AFB stain positive.",
+      "Diagnosis": "Pulmonary Tuberculosis",
+      "CategoryOfDisease": "Infectious Disease",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 44,
+        "Location": "Seattle, WA"
+      }
+    },
+    {
+      "ID": "PT-2025-6127",
+      "PatientSummary": "23-year-old male college student presents with 5-day history of high fever (103°F), severe frontal headache, retro-orbital pain, and generalized myalgia. Two days ago developed diffuse erythematous maculopapular rash beginning on trunk and spreading to extremities. Reports extreme fatigue and joint pain, particularly in knees and shoulders. Recently returned from spring break trip to Costa Rica 10 days ago. Physical exam reveals mild hepatomegaly and positive tourniquet test. Labs show thrombocytopenia (platelet count 95,000/μL), leukopenia, and elevated liver transaminases.",
+      "Diagnosis": "Dengue Fever",
+      "CategoryOfDisease": "Infectious Disease",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 23,
+        "Location": "Miami, FL"
+      }
+    },
+    {
+      "ID": "PT-2025-5390",
+      "PatientSummary": "68-year-old female with 3-month history of progressive bilateral hand stiffness and pain, worst in mornings and lasting >1 hour before improving with activity. Reports symmetrical swelling of MCPs and PIPs with difficulty making a fist or performing fine motor tasks like buttoning shirts. Morning stiffness significantly impacts daily activities. Physical exam shows bilateral, symmetrical synovitis of MCPs, PIPs, and wrists with ulnar deviation beginning to develop. Anti-CCP antibody strongly positive, RF positive, ESR 42 mm/hr, CRP 3.2 mg/dL. X-rays show early periarticular osteopenia without erosions.",
+      "Diagnosis": "Rheumatoid Arthritis",
+      "CategoryOfDisease": "Autoimmune/Rheumatologic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 68,
+        "Location": "Boston, MA"
+      }
+    },
+    {
+      "ID": "PT-2025-7818",
+      "PatientSummary": "52-year-old male with type 2 diabetes (10-year history, poorly controlled) presents with 3-day history of fever, painful urination, increased urinary frequency, and cloudy, foul-smelling urine. Reports severe left flank pain and persistent nausea with several episodes of vomiting in the past 24 hours. Vitals: Temp 102.3°F, BP 138/85, HR 112, RR 20. Physical exam reveals left costovertebral angle tenderness. Labs show WBC 18,500/μL with left shift, serum glucose 287 mg/dL, HbA1c 9.8%, BUN 32 mg/dL, creatinine 1.7 mg/dL. Urinalysis shows pyuria, bacteriuria, and presence of leukocyte esterase and nitrites.",
+      "Diagnosis": "Acute Pyelonephritis",
+      "CategoryOfDisease": "Genitourinary",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 52,
+        "Location": "Phoenix, AZ"
+      }
+    },
+    {
+      "ID": "PT-2025-2039",
+      "PatientSummary": "75-year-old female with history of hypertension and osteoporosis presents after falling in her bathroom. Reports feeling dizzy upon standing from toilet, losing balance, and landing on right hip. Unable to bear weight since the fall. Severe pain in right hip area. No loss of consciousness, head trauma, or other injuries. Physical exam reveals right leg externally rotated and shortened, limited range of motion due to pain. Vitals stable but orthostatic changes noted. X-ray confirms displaced femoral neck fracture. Has been living independently with minimal assistance, uses walker occasionally. Bone density scan 1 year ago showed T-score of -3.1 at femoral neck.",
+      "Diagnosis": "Femoral Neck Fracture",
+      "CategoryOfDisease": "Orthopedic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 75,
+        "Location": "Denver, CO"
+      }
+    },
+    {
+      "ID": "PT-2025-4106",
+      "PatientSummary": "29-year-old female presents with 6-week history of recurrent episodic severe headaches, typically unilateral and predominantly right-sided. Describes intense throbbing pain with onset over 30 minutes, lasting 4-72 hours if untreated. Associated symptoms include photophobia, phonophobia, nausea, and occasional vomiting. Reports aura of visual scintillations and paresthesias in right arm preceding some attacks. Triggers include lack of sleep, certain foods, and menstruation. Family history significant for similar headaches in mother and maternal aunt. Neurological examination normal between episodes. Has been self-medicating with OTC analgesics with limited relief.",
+      "Diagnosis": "Migraine with Aura",
+      "CategoryOfDisease": "Neurological",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 29,
+        "Location": "Chicago, IL"
+      }
+    },
+    {
+      "ID": "PT-2025-8374",
+      "PatientSummary": "63-year-old male with 40-pack-year smoking history presents with 2-month history of progressive dyspnea on exertion, persistent cough productive of blood-tinged sputum, and unintentional weight loss of 22 pounds. Reports increasing fatigue and occasional night sweats. No history of tuberculosis or recent infections. Physical exam reveals decreased breath sounds in right upper lung field and right supraclavicular lymphadenopathy. Chest CT shows 4.7 cm spiculated mass in right upper lobe with ipsilateral hilar lymphadenopathy and possible pleural involvement. PET scan demonstrates hypermetabolic activity in primary lesion and mediastinal lymph nodes.",
+      "Diagnosis": "Non-Small Cell Lung Cancer",
+      "CategoryOfDisease": "Oncology",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 63,
+        "Location": "Pittsburgh, PA"
+      }
+    },
+    {
+      "ID": "PT-2025-5921",
+      "PatientSummary": "42-year-old female with history of depression presents with 4-week history of increasing depressive symptoms including persistent low mood, anhedonia, social withdrawal, and feelings of worthlessness. Reports sleeping 10-12 hours daily but still feeling exhausted, poor concentration affecting work performance, and diminished appetite with 8-pound weight loss. Expresses passive suicidal ideation without specific plan or intent. Current episode preceded by job loss and divorce finalization. Previously well-controlled on sertraline 100mg daily but admits poor medication adherence for past 3 months. PHQ-9 score 22/27. Mental status exam shows psychomotor retardation, flat affect, and poor eye contact.",
+      "Diagnosis": "Major Depressive Disorder, Recurrent Episode, Severe",
+      "CategoryOfDisease": "Psychiatric",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 42,
+        "Location": "Atlanta, GA"
+      }
+    },
+    {
+      "ID": "PT-2025-3674",
+      "PatientSummary": "19-year-old male college freshman presents with acute onset of fever (102.6°F), severe sore throat, dysphagia, and fatigue for 5 days. Reports chills, malaise, anorexia, and headache. Denies cough or rhinorrhea. Physical exam reveals exudative pharyngitis, bilateral tonsillar enlargement with yellowish exudate, palatal petechiae, and prominent bilateral cervical lymphadenopathy. Splenomegaly noted on abdominal exam. Labs show atypical lymphocytosis on peripheral smear, WBC 12,800/μL with 68% lymphocytes, negative rapid strep test. Monospot test positive. Liver function tests show mild transaminitis.",
+      "Diagnosis": "Infectious Mononucleosis (Epstein-Barr Virus)",
+      "CategoryOfDisease": "Infectious Disease",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 19,
+        "Location": "Austin, TX"
+      }
+    },
+    {
+      "ID": "PT-2025-2187",
+      "PatientSummary": "4-year-old female presents with 3-day history of erythematous, pruritic rash starting on face and spreading to trunk and extremities. Rash characterized by maculopapular lesions in various stages of development including vesicles, pustules, and crusting. Associated with fever (101.2°F), malaise, and decreased appetite. Child attends preschool where similar cases have been reported. Mother reports incomplete vaccination history due to vaccine hesitancy. On examination, lesions concentrated on face, trunk, and proximal extremities with few lesions on palms and soles. Multiple lesions in same stage of development within body regions.",
+      "Diagnosis": "Varicella (Chickenpox)",
+      "CategoryOfDisease": "Infectious Disease",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 4,
+        "Location": "Nashville, TN"
+      }
+    },
+    {
+      "ID": "PT-2025-9846",
+      "PatientSummary": "37-year-old female presents with 6-month history of excessive daytime sleepiness despite sleeping 8-9 hours nightly. Reports falling asleep inappropriately during meetings, while driving, and during conversations. Describes sudden episodes of bilateral muscle weakness triggered by strong emotions, particularly laughter (has fallen to ground multiple times when laughing). Also reports vivid, frightening hypnagogic hallucinations and occasional sleep paralysis. Epworth Sleepiness Scale score 19/24. BMI 26. Bed partner reports no significant snoring or witnessed apneas. Nocturnal polysomnography normal. Multiple Sleep Latency Test shows mean sleep latency of 3.2 minutes with sleep-onset REM periods in 4 of 5 nap opportunities.",
+      "Diagnosis": "Narcolepsy with Cataplexy",
+      "CategoryOfDisease": "Neurological",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 37,
+        "Location": "San Francisco, CA"
+      }
+    },
+    {
+      "ID": "PT-2025-6543",
+      "PatientSummary": "12-year-old male brought to pediatrician due to 3-week history of polyuria, polydipsia, and 15-pound weight loss despite increased appetite. Mother reports child drinking excessive amounts of water, urinating frequently including bedwetting (new onset), and appearing more fatigued than usual. Vitals: BP 105/70, HR 108, RR 22. Physical exam reveals dry mucous membranes, reduced skin turgor, and acetone breath odor. Random blood glucose 462 mg/dL, urinalysis shows glucosuria and ketonuria. Venous pH 7.28, bicarbonate 16 mEq/L. HbA1c 11.2%. No family history of diabetes. Currently alert and oriented but appears moderately dehydrated.",
+      "Diagnosis": "Type 1 Diabetes Mellitus with Diabetic Ketoacidosis",
+      "CategoryOfDisease": "Endocrine",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 12,
+        "Location": "Philadelphia, PA"
+      }
+    },
+    {
+      "ID": "PT-2025-3019",
+      "PatientSummary": "72-year-old male with history of COPD (former 45 pack-year smoker) presents with acute worsening of baseline dyspnea over past 48 hours, increased productive cough with yellow-green sputum, and low-grade fever (100.5°F). Reports using rescue inhaler every 2-3 hours with minimal relief. Denies chest pain but notes increased lower extremity edema. On exam: appears in moderate respiratory distress, using accessory muscles, bilateral expiratory wheezes with prolonged expiratory phase and scattered rhonchi. Vitals: BP 145/85, HR 112, RR 28, O2 sat 88% on room air. ABG shows pH 7.32, PaCO2 52 mmHg, PaO2 58 mmHg. WBC 14,200/μL with neutrophilia. CXR shows hyperinflation and right lower lobe infiltrate.",
+      "Diagnosis": "Acute Exacerbation of COPD with Pneumonia",
+      "CategoryOfDisease": "Pulmonary",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 72,
+        "Location": "Cleveland, OH"
+      }
+    },
+    {
+      "ID": "PT-2025-7302",
+      "PatientSummary": "48-year-old female presents with 3-month history of painful mouth sores, progressively worsening joint pain involving wrists, knees, and small joints of hands, and a photosensitive rash across cheeks and bridge of nose. Reports extreme fatigue, intermittent low-grade fevers, and 2-week history of pleuritic chest pain. Recent development of painless hair loss. Physical exam reveals malar rash, oral ulcers, synovitis of MCPs and wrists, and pleural friction rub on chest auscultation. Labs show hemoglobin 10.2 g/dL, WBC 3,400/μL, platelets 105,000/μL, positive ANA (1:640, homogeneous pattern), positive anti-dsDNA, hypocomplementemia, and proteinuria (1.2 g/24 hours).",
+      "Diagnosis": "Systemic Lupus Erythematosus",
+      "CategoryOfDisease": "Autoimmune/Rheumatologic",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 48,
+        "Location": "Houston, TX"
+      }
+    },
+    {
+      "ID": "PT-2025-5217",
+      "PatientSummary": "83-year-old male with history of hypertension, atrial fibrillation (on warfarin), and previous TIA presents with acute onset of right-sided weakness and expressive aphasia noted by wife upon waking 2 hours ago. Symptoms began around 6:00 AM while sleeping. Last known normal at 10:00 PM the previous night. On exam: alert but unable to name objects, follows simple commands, right facial droop, right arm drift with 2/5 strength, right leg with 3/5 strength. NIHSS score 14. Vitals: BP 178/102, irregular HR 92, RR 16, O2 sat 96% on room air. Head CT shows no hemorrhage. INR 2.1. ECG shows atrial fibrillation with controlled ventricular response. No recent medication changes.",
+      "Diagnosis": "Acute Ischemic Stroke",
+      "CategoryOfDisease": "Neurological",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 83,
+        "Location": "Detroit, MI"
+      }
+    },
+    {
+      "ID": "PT-2025-1938",
+      "PatientSummary": "27-year-old female, G1P0 at 38 weeks gestation, presents to labor and delivery with regular contractions every 3-4 minutes for the past 4 hours, progressively increasing in intensity. Reports rupture of membranes 2 hours ago with clear fluid, and passage of mucus plug yesterday. Denies vaginal bleeding or decreased fetal movement. Prenatal course uncomplicated. GBS negative. No medical or surgical history. On exam: cervix 5 cm dilated, 90% effaced, vertex presentation at -1 station. FHR 140-150 bpm with good variability, occasional early decelerations with contractions. Maternal vitals stable. Contractions palpable every 3 minutes lasting 60 seconds.",
+      "Diagnosis": "Active Labor, Term Pregnancy",
+      "CategoryOfDisease": "Obstetric",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 27,
+        "Location": "Charlotte, NC"
+      }
+    },
+    {
+      "ID": "PT-2025-8765",
+      "PatientSummary": "61-year-old female presents with 4-week history of progressive jaundice, dark urine, clay-colored stools, and 14-pound unintentional weight loss. Reports intermittent right upper quadrant pain, early satiety, and persistent pruritus. No fever or recent travel. Medical history significant for type 2 diabetes and 30-year smoking history. On exam: icteric sclera, jaundiced skin, tender palpable gallbladder (Courvoisier's sign), no ascites. Labs show total bilirubin 18.2 mg/dL (direct 14.5 mg/dL), alkaline phosphatase 780 U/L, ALT 120 U/L, AST 95 U/L, CA 19-9 1250 U/mL. Abdominal CT reveals 3.2 cm mass in pancreatic head with biliary and pancreatic ductal dilation ('double duct sign'), no visible metastases.",
+      "Diagnosis": "Pancreatic Adenocarcinoma",
+      "CategoryOfDisease": "Oncology",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 61,
+        "Location": "New Orleans, LA"
+      }
+    },
+    {
+      "ID": "PT-2025-4521",
+      "PatientSummary": "55-year-old male with history of alcohol abuse (1 liter of vodka daily for 20+ years) presents with 3-day history of severe epigastric pain radiating to back, persistent nausea and vomiting, and inability to tolerate oral intake. Reports similar but milder episodes in past. Last alcohol consumption 48 hours ago. On exam: diaphoretic, moderate distress, epigastric tenderness with voluntary guarding, no rebound tenderness, normal bowel sounds. Vitals: temp 100.8°F, BP 142/88, HR 112, RR 22. Labs show amylase 1250 U/L, lipase 1875 U/L, WBC 15,700/μL, total bilirubin 1.8 mg/dL, AST 187 U/L, ALT 104 U/L, calcium 7.8 mg/dL, triglycerides 220 mg/dL. Abdominal CT shows diffuse pancreatic edema, peripancreatic fluid collections, and scattered areas of pancreatic necrosis.",
+      "Diagnosis": "Acute Necrotizing Pancreatitis",
+      "CategoryOfDisease": "Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 55,
+        "Location": "Las Vegas, NV"
+      }
+    },
+    {
+      "ID": "PT-2025-6789",
+      "PatientSummary": "8-year-old male presents with 2-week history of increasing fatigue, pallor, bruising on extremities, persistent low-grade fever, bone pain (particularly in legs), and decreased appetite. Mother reports child has been increasingly irritable and recently complained of headaches and dizziness. Physical exam reveals scattered ecchymoses, petechiae on trunk, pallor of mucous membranes, and palpable splenomegaly. No lymphadenopathy. Labs show WBC 22,500/μL with 65% blasts, hemoglobin 7.2 g/dL, platelets 32,000/μL, neutrophils 800/μL absolute. Peripheral blood smear confirms presence of lymphoblasts. Bone marrow aspirate shows hypercellularity with 87% lymphoblasts. Flow cytometry consistent with precursor B-cell phenotype.",
+      "Diagnosis": "Acute Lymphoblastic Leukemia",
+      "CategoryOfDisease": "Oncology",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 8,
+        "Location": "Salt Lake City, UT"
+      }
+    },
+    {
+      "ID": "PT-2025-3267",
+      "PatientSummary": "66-year-old female with history of hypertension, hyperlipidemia, and prior myocardial infarction presents with 3-month history of progressive exertional dyspnea, orthopnea requiring three pillows to sleep, paroxysmal nocturnal dyspnea, and bilateral lower extremity edema. Reports fatigue and decreased exercise tolerance, now limited to walking half a block before needing to rest. Has gained 12 pounds in past month despite no dietary changes. Physical exam reveals elevated JVP, bilateral basilar crackles, S3 gallop, and 3+ pitting edema to mid-shin bilaterally. Vitals: BP 148/92, HR 98, RR 20, O2 sat 92% on room air. BNP 1250 pg/mL. Chest X-ray shows cardiomegaly, pulmonary vascular congestion, and small bilateral pleural effusions. Echocardiogram reveals LVEF 28%, global hypokinesis, and moderate mitral regurgitation.",
+      "Diagnosis": "Congestive Heart Failure with Reduced Ejection Fraction",
+      "CategoryOfDisease": "Cardiovascular",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 66,
+        "Location": "St. Louis, MO"
+      }
+    },
+    {
+      "ID": "PT-2025-9012",
+      "PatientSummary": "16-year-old female presents with 1-year history of obsessive thoughts regarding contamination, particularly fears of contracting serious diseases from public restrooms, doorknobs, and handshakes. Reports spending 3-4 hours daily performing ritualistic hand washing (30+ times daily until hands are raw and bleeding), showering, and cleaning routines. Unable to touch doorknobs directly, uses tissue or sleeve. Academic performance declining due to tardiness and difficulty completing assignments in timely manner. Reports significant distress and acknowledges thoughts are excessive but unable to control behaviors. Has missed 18 days of school this semester. No prior psychiatric history. Family history significant for OCD in maternal aunt.",
+      "Diagnosis": "Obsessive-Compulsive Disorder",
+      "CategoryOfDisease": "Psychiatric",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 16,
+        "Location": "San Diego, CA"
+      }
+    },
+    {
+      "ID": "PT-2025-4765",
+      "PatientSummary": "78-year-old male with history of hypertension and hyperlipidemia presents with 6-month history of progressive memory impairment, particularly for recent events. Wife reports patient repeatedly asks same questions, misplaces items, has difficulty following conversations, and has gotten lost while driving in familiar neighborhoods twice in past month. Recently found patient attempting to put milk in cabinet instead of refrigerator. Also notes increased irritability, withdrawal from previously enjoyed social activities, and difficulty managing finances (paid same bill three times last month). Score on Montreal Cognitive Assessment (MoCA) 18/30 with deficits in delayed recall, visuospatial function, and executive function. Physical and neurological exams otherwise normal. MRI shows bilateral hippocampal atrophy and mild cortical atrophy.",
+      "Diagnosis": "Alzheimer's Disease, Early Stage",
+      "CategoryOfDisease": "Neurological",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 78,
+        "Location": "Tampa, FL"
+      }
+    },
+    {
+      "ID": "PT-2025-8123",
+      "PatientSummary": "34-year-old female with history of anxiety presents with 4-month history of recurrent palpitations, chest tightness, shortness of breath, dizziness, and sense of impending doom. Episodes occur unexpectedly, peak within 10 minutes, and typically last 20-30 minutes before gradually resolving. Has experienced approximately 15 episodes, including 3 ER visits where cardiac workup was negative. Reports feeling constantly worried about having another attack, has stopped exercising and avoids crowded places fearing inability to escape if attack occurs. Has missed several days of work due to symptoms. Denies substance use. Physical exam normal. Vitals stable. ECG, echocardiogram, and thyroid function tests normal.",
+      "Diagnosis": "Panic Disorder",
+      "CategoryOfDisease": "Psychiatric",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 34,
+        "Location": "Washington, DC"
+      }
+    },
+    {
+      "ID": "PT-2025-5432",
+      "PatientSummary": "50-year-old male with no significant past medical history presents with 3-day history of severe right upper quadrant abdominal pain, fever (101.2°F), nausea, vomiting, and jaundice. Pain is constant, worse after meals, and radiates to right shoulder. Reports dark urine and clay-colored stools. On physical exam: icteric sclera, RUQ tenderness with positive Murphy's sign, and mild hepatomegaly. Vitals: BP 138/84, HR 102, RR 18. Labs show WBC 15,600/μL, total bilirubin 4.2 mg/dL (direct 3.1 mg/dL), alkaline phosphatase 342 U/L, ALT 220 U/L, AST 185 U/L, amylase and lipase normal. Ultrasound reveals gallbladder wall thickening, multiple gallstones with one impacted in common bile duct, and biliary ductal dilation.",
+      "Diagnosis": "Acute Cholangitis with Choledocholithiasis",
+      "CategoryOfDisease": "Gastrointestinal",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 50,
+        "Location": "Dallas, TX"
+      }
+    },
+    {
+      "ID": "PT-2025-2876",
+      "PatientSummary": "22-year-old male college student presents with 6-week history of persistent sadness, anhedonia, feelings of worthlessness, difficulty concentrating on schoolwork, decreased appetite with 10-pound weight loss, and significant sleep disturbance (initial and middle insomnia). Reports occasional passive suicidal ideation without plan or intent. Symptoms began after relationship breakup and academic difficulties. Denies prior depressive episodes, mania, psychosis, or substance abuse. No family psychiatric history. Mental status exam reveals psychomotor retardation, poor eye contact, and depressed affect. PHQ-9 score 19/27. Physical exam and basic lab workup unremarkable.",
+      "Diagnosis": "Major Depressive Disorder, Single Episode, Moderate",
+      "CategoryOfDisease": "Psychiatric",
+      "PatientDemographics": {
+        "Gender": "Male",
+        "Age": 22,
+        "Location": "Madison, WI"
+      }
+    },
+    {
+      "ID": "PT-2025-3348",
+      "PatientSummary": "32-year-old female presents at 32 weeks gestation with severe headache, visual disturbances, right upper quadrant pain, and sudden onset of edema in face and extremities over past 48 hours. Reports significant weight gain of 5 pounds in past week. Blood pressure 168/112 mmHg on repeated measurements. Urinalysis shows 3+ protein. Labs reveal elevated liver enzymes (AST 92 U/L, ALT 88 U/L), platelets 95,000/μL, and uric acid 7.8 mg/dL. Fetal ultrasound shows appropriate growth for gestational age with normal amniotic fluid. Primigravida with previously uncomplicated pregnancy and normal BP readings at prior visits.",
+      "Diagnosis": "Preeclampsia with Severe Features",
+      "CategoryOfDisease": "Obstetric",
+      "PatientDemographics": {
+        "Gender": "Female",
+        "Age": 32,
+        "Location": "Raleigh, NC"
+      }
+    }
+]
